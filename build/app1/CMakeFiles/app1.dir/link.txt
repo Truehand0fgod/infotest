@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/app1.dir/prog1.cpp.o -o app1  -Wl,-rpath,/home/nix/proj/infotest/build/mylib ../mylib/libmylib.so 
